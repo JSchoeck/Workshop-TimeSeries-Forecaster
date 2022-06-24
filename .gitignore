@@ -1,3 +1,5 @@
 secrets.toml
 tutorial.txt
 Presentation/App Architecture.pptx
+__pycache__/
+/__pycache__/
